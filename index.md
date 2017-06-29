@@ -1,5 +1,5 @@
 ---
-title: "<img src='signature-vertical-informal.png' style='display:block; margin: 0 auto;' width=25%> <br> CSCAR Resources" 
+# title: "<img src='signature-vertical-informal.png' style='display:block; margin: 0 auto;' width=25%> <br> CSCAR Resources" 
 # toc: true
 # toc_float: true
 # toc_depth: 3
@@ -9,3 +9,5 @@ title: "<img src='signature-vertical-informal.png' style='display:block; margin:
 ---
 
 Welcome to the CSCAR Wiki. Browse main links above.
+
+<img src='signature-vertical-informal.png' style='display:block; margin: 0 auto;' width=25%> <br>
