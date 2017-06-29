@@ -1,2 +1,7 @@
 theme: jekyll-theme-minimal
 title: CSCAR Resources
+css: cscar.css
+toc: true
+toc_float: true
+logo: signature-social.png
+favicon: signature-social.png
