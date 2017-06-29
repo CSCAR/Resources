@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
-title: CSCAR Resources
-css: cscar.css
+# title: CSCAR Resources
+# css: cscar.css
 # toc: true
 # toc_float: true
 # logo: signature-social.png
